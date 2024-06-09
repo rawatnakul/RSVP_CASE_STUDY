@@ -6,3 +6,9 @@ RSVP Movies is an Indian film production company that has produced many super-hi
 The production company wants to plan its every move analytically based on data and has approached you for help with this new project. You have been provided with the data of the movies that have been released in the past three years. You have to analyze the data set and draw meaningful insights that can help them start their new project. 
 
 You are a data analyst and an SQL expert. You have to use SQL to analyze the given data and give recommendations to RSVP Movies based on the insights. 
+# Data Set and Database Creation
+Download the imdb dataset
+The first sheet consists of ERD while the other sheets consist of different tables, that give details of the dataset.
+Start by creating the database and then using DML you can query the database to get insights from the data.
+Give a ⭐️ if you like this project!
+
