@@ -7,8 +7,8 @@ The production company wants to plan its every move analytically based on data a
 
 You are a data analyst and an SQL expert. You have to use SQL to analyze the given data and give recommendations to RSVP Movies based on the insights. 
 # Data Set and Database Creation
-Download the imdb dataset
-The first sheet consists of ERD while the other sheets consist of different tables, that give details of the dataset.
-Start by creating the database and then using DML you can query the database to get insights from the data.
-Give a ⭐️ if you like this project!
+1) Download the imdb dataset
+2) The first sheet consists of ERD while the other sheets consist of different tables, that give details of the dataset.
+3) Start by creating the database and then using DML you can query the database to get insights from the data.
+4) Give a ⭐️ if you like this project!
 
